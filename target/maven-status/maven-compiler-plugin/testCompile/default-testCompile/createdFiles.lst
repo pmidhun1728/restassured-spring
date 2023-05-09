@@ -1,0 +1,6 @@
+com/appsdeveloperblog/app/ws/shared/UtilsTest.class
+com/appsdeveloperblog/app/ws/MobileAppWsApplicationTests.class
+com/appsdeveloperblog/app/ws/ui/controller/UserControllerTest.class
+com/appsdeveloperblog/app/ws/service/impl/UserServiceImplTest.class
+com/appsdeveloperblog/app/ws/io/repository/UserRepositoryTest.class
+com/appsdeveloperblog/app/ws/service/impl/UserServiceImplTest$1.class
