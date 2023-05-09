@@ -1,1 +1,5 @@
-# springmvc-ws
+Tools Needed
+
+Maven,
+Java-17
+
